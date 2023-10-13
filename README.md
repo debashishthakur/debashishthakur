@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hey there, Future Tech Enthusiast! 👋
 
 Welcome to my GitHub corner! I'm Debashish Thakur, a recent Computer Science graduate from Assam Engineering College, with a passion for all things tech and innovation.
