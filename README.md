@@ -18,7 +18,10 @@ Welcome to my GitHub corner! I'm Debashish Thakur, a recent Computer Science gra
 
 So, make yourself at home, explore my projects, and let's embark on this exciting tech journey together. Don't forget to follow me for updates, and let's make some coding magic happen! ✨
 
+You can reach me at - debashishthakur9@gmail.com
+                      +91-9365843392
 Cheers, Debashish Thakur
+
 
 
 <!--
