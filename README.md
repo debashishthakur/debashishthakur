@@ -9,7 +9,8 @@ Welcome to my GitHub corner! I'm Debashish Thakur, a recent Computer Science gra
 **Skills Breakdown:**
 
 - **Machine Learning:** I have a strong background in machine learning, from building predictive models to working with deep learning frameworks.
-- **Web Development:** Proficient in Flask, Django, HTML, CSS and Js frameworks I create web applications that are both functional and user-friendly.
+- **Deep Learning:** From researching about neural networks to implementing them in a variety of applications, it's fascinating for me.
+- **Web Development:** Proficient in Flask, Django, HTML and CSS . I create web applications that are both functional and user-friendly.
 - **Python Development:** Python is my go-to language for its versatility and extensive libraries.
 - **Web Scraping:** I specialize in scraping data from websites, turning raw information into valuable insights.
 - **Data Analysis:** I use data analysis techniques to uncover hidden patterns and trends in datasets.
